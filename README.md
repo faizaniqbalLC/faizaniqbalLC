@@ -16,7 +16,7 @@
 <li> 📱 Worked on multiple projects and products,always feel easy to do new task.</li>
 <li> 🌱 I’m currently learning Typescript.</li>
 <li> 💬 Ask me about <a href="mailto:se.fizaniqbal@gmail.com">JavaScript</a>, <a href="mailto:se.fizaniqbal@gmail.com">TypeScript</a>, <a href="mailto:se.fizaniqbal@gmail.com">React</a>, <a href="mailto:se.fizaniqbal@gmail.com">Node.js</a>, <a href="mailto:se.fizaniqbal@gmail.com">MongoDB</a>, <a href="mailto:se.fizaniqbal@gmail.com">Express.js</a>.</li>
-<li> 📫 How to reach me: Email me at <a href="mailto:se.fizaniqbal@gmail.com">m.mamoon.tariq@gmail.com</a></li>
+<li> 📫 How to reach me: Email me at <a href="mailto:se.fizaniqbal@gmail.com">se.fizaniqbal@gmail.com</a></li>
 <li> 😄 Pronouns: He/Him or Faja</li>
 <li> ⚡ Fun fact: I start my day with great motivation.</li>
 </ul>
