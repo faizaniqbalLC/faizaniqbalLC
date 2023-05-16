@@ -1,7 +1,5 @@
 ### Hi there 👋 I am Fizan Iqbal
 
-![User](https://avatars.githubusercontent.com/u/102588816?v=4)
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faizaniqbalLC" alt="MuhammadfizanIqbal" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=faizaniqbalLC" alt="fizan" /></a> </p>
