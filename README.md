@@ -1,4 +1,4 @@
-### Hi there 👋 I am Fizan Iqbal     
+### Hi there 👋 I am Fizan Iqbal      
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faizaniqbalLC" alt="MuhammadfizanIqbal" /> </p>
 
