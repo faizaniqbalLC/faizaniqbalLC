@@ -4,9 +4,8 @@
     <b>Welcome to my page!</b><br><br>
     <i>
       I'm Fizan Iqbal<br> 
-      A passionate JavaScript developer eager to collaborate on innovative projects.<br>  
-      I love exploring the endless possibilities of JavaScript and expanding my coding skills.<br> 
-      Let's push boundaries and create remarkable solutions together in the dynamic world of web development.
+     I'm Fizan Iqbal, a passionate JavaScript developer eager to collaborate with like-minded individuals under the pixels, while continuously learning from others. <br>
+Together, let's explore the vast possibilities of JavaScript and create innovative solutions in the ever-evolving field of web development.
     </i><br>
   </p>
 
