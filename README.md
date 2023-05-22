@@ -13,8 +13,6 @@ Together, let's explore the vast possibilities of JavaScript and create innovati
   <img src="https://komarev.com/ghpvc/?username=faizaniqbalLC" alt="MuhammadfizanIqbal" />
 </p>
 
-![trophy](https://github-profile-trophy.vercel.app/?username=faizaniqbalLC&theme=onedark)
-
 ## Languages and Tools:
 
 <p align="left">
