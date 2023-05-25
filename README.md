@@ -4,7 +4,9 @@
     <b>Welcome to Hello World!</b><br><br>
     <i>
       I'm Fizan Iqbal<br> 
-     A passionate JavaScript developer eager to collaborate with like-minded individuals under the pixels. <br>
+     A passionate  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  </a> developer eager to collaborate with like-minded individuals under the pixels. <br>
 Together, let's explore the vast possibilities of JavaScript and create innovative solutions in the ever-evolving field of web development.<br>
     </i><br>
   </p>
@@ -13,15 +15,6 @@ Together, let's explore the vast possibilities of JavaScript and create innovati
   <img src="https://komarev.com/ghpvc/?username=faizaniqbalLC" alt="MuhammadfizanIqbal" />
 </p>
 
-## Languages and Tools:
-
-<p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-</p>
-
----
 
 - 🔭 I’m currently working on improving my health and skills.
 - 📱 I've worked on multiple projects and products, always eager to take on new tasks.
