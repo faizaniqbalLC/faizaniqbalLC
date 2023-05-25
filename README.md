@@ -4,7 +4,7 @@
     <b>Welcome to Hello World!</b><br><br>
     <i>
       I'm Fizan Iqbal<br> 
-     A passionate  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+     A passionate  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" align="center">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   </a> developer eager to collaborate with like-minded individuals under the pixels. <br>
 Together, let's explore the vast possibilities of JavaScript and create innovative solutions in the ever-evolving field of web development.<br>
