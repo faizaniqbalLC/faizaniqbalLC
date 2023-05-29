@@ -17,11 +17,9 @@ Together, let's explore the vast possibilities of JavaScript and create innovati
 
 
 - 🔭 I’m currently working on improving my health and skills.
-- 📱  I've worked on multiple projects and products, always eager to take on new tasks.
 - 🌱 I’m currently learning TypeScript.
 - 💬 Ask me about JavaScript, TypeScript, React, Node.js, MongoDB, Express.js.
 - 📫 How to reach me: Email me at [se.fizaniqbal@gmail.com](mailto:se.fizaniqbal@gmail.com)
-- 😄 Pronouns: He/Him or Faja
 - ⚡ Fun fact: I start my day with great motivation.
 
 # 📊 GitHub Stats:
