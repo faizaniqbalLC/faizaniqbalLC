@@ -15,13 +15,6 @@ Together, let's explore the vast possibilities of JavaScript and create innovati
   <img src="https://komarev.com/ghpvc/?username=faizaniqbalLC" alt="MuhammadfizanIqbal" />
 </p>
 
-
-- 🔭 I’m currently working on improving my health and skills.
-- 🌱 I’m currently learning TypeScript.
-- 💬 Ask me about JavaScript, TypeScript, React, Node.js, MongoDB, Express.js.
-- 📫 How to reach me: Email me at [se.fizaniqbal@gmail.com](mailto:se.fizaniqbal@gmail.com)
-- ⚡ Fun fact: I start my day with great motivation.
-
 # 📊 GitHub Stats:
 <p align="left">
 <a href="https://github.com/faizaniqbalLC">
@@ -29,6 +22,12 @@ Together, let's explore the vast possibilities of JavaScript and create innovati
   <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=faizaniqbalLC&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
+- 🔭 I’m currently working on improving my health and skills.
+- 🌱 I’m currently learning TypeScript.
+- 💬 Ask me about JavaScript, TypeScript, React, Node.js, MongoDB, Express.js.
+- 📫 How to reach me: Email me at [se.fizaniqbal@gmail.com](mailto:se.fizaniqbal@gmail.com)
+- ⚡ Fun fact: I start my day with great motivation.
 
 ---
 
