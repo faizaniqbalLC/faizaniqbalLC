@@ -24,6 +24,12 @@ Together, let's explore the vast possibilities of JavaScript and create innovati
 - 😄 Pronouns: He/Him or Faja
 - ⚡ Fun fact: I start my day with great motivation.
 
+<p align="left">
+<a href="https://github.com/nswardana11">
+  <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=faizaniqbalLC&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=faizaniqbalLC&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 ---
 
 ### Connect with me:
