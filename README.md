@@ -11,7 +11,6 @@ Together, let's explore the vast possibilities of JavaScript and create innovati
     </i><br>
   </p>
   
-  ### Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-fizan-iqbal) 
 
 <p align="left">
