@@ -15,7 +15,7 @@ Together, let's explore the vast possibilities of JavaScript and create innovati
   <img src="https://komarev.com/ghpvc/?username=faizaniqbalLC" alt="MuhammadfizanIqbal" />
 </p>
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 <p align="left">
 <a href="https://github.com/faizaniqbalLC">
   <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=faizaniqbalLC&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
