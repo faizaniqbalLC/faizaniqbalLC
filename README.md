@@ -10,7 +10,7 @@
 Together, let's explore the vast possibilities of JavaScript and create innovative solutions in the ever-evolving field of web development.<br>
     </i><br>
   </p>
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-fizan-iqbal) 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=faizaniqbalLC" alt="MuhammadfizanIqbal" />
 </p>
