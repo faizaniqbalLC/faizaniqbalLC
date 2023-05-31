@@ -5,7 +5,6 @@
     <i>
       I'm Fizan Iqbal<br> 
      A passionate [![LinkedIn](https://developer.mozilla.org/en-US/docs/Web/JavaScript)]]
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   </a> developer eager to collaborate with like-minded individuals under the pixels. <br>
 Together, let's explore the vast possibilities of JavaScript and create innovative solutions in the ever-evolving field of web development.<br>
     </i><br>
