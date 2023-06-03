@@ -8,7 +8,7 @@
  developer eager to collaborate with like-minded individuals under the pixels. <br>
 Together, let's explore the vast possibilities of JavaScript and create innovative solutions in the ever-evolving field of web development.<br>
     </i><br>
-    <a href="https://github.com/faizaniqbalLC"><img alt="GitHub Status" src="https://github-readme-stats.vercel.app/api?username=faizaniqbalLC&hide=contribs&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/></a>
+    <a href="https://github.com/faizaniqbalLC"><img alt="GitHub Status" src="https://github-readme-stats.vercel.app/api?username=faizaniqbalLC&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/></a>
 
   </p>
   
