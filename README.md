@@ -9,7 +9,7 @@
 Together, let's explore the vast possibilities of JavaScript and create innovative solutions in the ever-evolving field of web development.<br>
     </i><br>
     <a href="https://github.com/faizaniqbalLC"><img alt="GitHub Status" src="https://github-readme-stats.vercel.app/api?username=faizaniqbalLC&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/></a>
-
+ <a href="https://github.com/faizaniqbalLC"><img alt="GitHub Status" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizaniqbalLC&layout=compact&langs_count=8&theme=algoli"/></a>
   </p>
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-fizan-iqbal) 
