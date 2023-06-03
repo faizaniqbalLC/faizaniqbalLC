@@ -10,12 +10,9 @@ Together, let's explore the vast possibilities of JavaScript and create innovati
     </i><br>
     <a href="https://github.com/faizaniqbalLC"><img height="165em" alt="GitHub Status" src="https://github-readme-stats.vercel.app/api?username=faizaniqbalLC&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/></a>
  <a href="https://github.com/faizaniqbalLC"><img height="165em" alt="Repositries Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizaniqbalLC&layout=compact&langs_count=8&theme=algolia"/></a>
-  
-    [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-fizan-iqbal) 
-
   </p>
   
-
+    [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-fizan-iqbal) 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=faizaniqbalLC" alt="MuhammadfizanIqbal" />
 </p>
