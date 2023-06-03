@@ -18,12 +18,7 @@ Together, let's explore the vast possibilities of JavaScript and create innovati
   <img src="https://komarev.com/ghpvc/?username=faizaniqbalLC" alt="MuhammadfizanIqbal" />
 </p>
 
-<p align="left">
-<a href="https://github.com/faizaniqbalLC">
-  <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=faizaniqbalLC&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=faizaniqbalLC&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
+
 
 - 🔭 I’m currently working on improving my health and skills.
 - 🌱 I’m currently learning TypeScript.
