@@ -7,7 +7,7 @@ Together, let's explore the vast possibilities of JavaScript and create innovati
 <p align="left">
     <a href="https://linkedin.com/in/muhammad-fizan-iqbal" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"
                                                             alt="MuhammadfizanIqbal" /></a> <br/>   
-  <img src="https://komarev.com/ghpvc/?username=faizaniqbalLC" alt="MuhammadfizanIqbal" /> 
+  <img src="https://komarev.com/ghpvc/?username=faizaniqbalLC" alt="MuhammadfizanIqbal" />
 </p>
 
 - 🔭 I’m currently working on improving my health and skills.
