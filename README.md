@@ -10,7 +10,7 @@ Together, let's explore the vast possibilities of JavaScript and create innovati
   <img src="https://komarev.com/ghpvc/?username=faizaniqbalLC" alt="MuhammadfizanIqbal" />
 </p>
 
-- 🔭 I’m currently working on improving my health and skills. 
+- 🔭 I’m currently working on improving my health and skills.
 - 🌱 I’m currently learning TypeScript.
 - 💬 Ask me about JavaScript, TypeScript, React, Node.js, MongoDB, and Express.js.
 - 📫 How to reach me: Email me at [se.fizaniqbal@gmail.com](mailto:se.fizaniqbal@gmail.com)
