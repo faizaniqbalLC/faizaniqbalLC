@@ -1,4 +1,4 @@
-<h1 align="center">Hi, guys 👋</h1>
+<h1 align="center">Hi, guys 👋</h1> 
 <p align="center"> <b>Welcome to Hello World!</b><br><br><i>I'm Fizan Iqbal<br> A passionate JavaScript developer eager to collaborate with like-minded individuals under the pixels.<br>
 Together, let's explore the vast possibilities of JavaScript and create innovative solutions in the ever-evolving field of web development.<br></i><br>
 <a href="https://github.com/faizaniqbalLC"><img height="165em" alt="GitHub Status" src="https://github-readme-stats.vercel.app/api?username=faizaniqbalLC&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/></a>
